@@ -1,5 +1,9 @@
 # cotojestepitet
 
+Projekt wykonany z wykorzystaniem vue.js oraz bootstrap 4.
+
+Strona będzie dostępna pod adresem https://cotojestepitet.pl
+
 ## Project setup
 ```
 npm install
